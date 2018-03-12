@@ -1,3 +1,4 @@
+# This repository has been moved to https://github.com/tenjin/tenjin-android-sdk
 
 Please see our <a href="https://github.com/tenjin/tenjin-android-sdk/wiki">Release Notes</a> to see detailed version history.
 
